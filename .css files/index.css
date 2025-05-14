@@ -1,0 +1,126 @@
+@media screen and (max-width:768px){
+/*.card-class{
+    font-size: xx-small;
+    height: 30pc;
+}*/
+.index-carousel{
+    height: 23pc;
+}
+.index-carousel img{
+    height: 23pc;
+}
+/*.card-class:first-of-type{
+    height: 35pc;
+}*/
+.products-main-div {
+    width: 22pc;
+    }
+/*.card-class:nth-of-type(2){
+height: 32pc;
+}*/
+.order-btn{
+    width: 15pc;
+}
+.index-animation-div img{
+    height: 23pc;
+    }
+    .index-animation-div{
+        height: 24pc;
+    }
+    .product-1st-dried img{
+    height: 15pc;
+}
+.product-dried-snail-card{
+    display: grid;
+    grid-template-rows: repeat(2,auto);
+    gap: 2rem;
+}
+@media screen and (max-height:932px){
+    .card-class:nth-of-type(2){
+        height: 34pc;
+        }  
+}
+}
+@media screen and (min-width:768px){
+.pricing-table{
+    width: 30pc;
+}
+.index-carousel{
+    height: 40pc;
+}
+.index-carousel img{
+    height: 40pc;
+}
+.index-animation-div img{
+    height: 40pc;
+    }
+    .index-animation-div{
+        height: 40pc;
+    }
+form{
+    width: 30pc;
+    margin: 0 auto;
+}
+.terms-and-conds-div{
+    width: 35rem;
+}
+.product-dried-snail-card img:nth-of-type(1){
+    height: 13rem;
+    width: 25rem;
+    display: flex;
+    align-self: center;
+}
+.index-main-div{
+    width: 45rem;
+    margin: 0 auto;
+}
+.index-main-div hr{
+    width: 43rem;
+}
+.products-main-div {
+width: 40pc;
+}
+
+.services-container{
+    width: 40pc;
+}
+.product-1st-dried{
+    height: 22pc;
+}
+.product-1st-dried img{
+    height: 21pc;
+}
+
+}
+.services-list{
+    display: grid;
+    grid-template-rows: repeat(4,auto);
+    gap: 1rem;
+    list-style:square;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+    strong{
+        color: burlywood;
+        text-decoration: underline;
+    }
+}
+.products-main-div h3,h2{
+    color: #ffc107;
+}
+.products-main-div p,ul{
+    font-size: larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.products-main-div ul{
+    list-style:square;
+    text-align: left;
+}
+form{
+    display: grid;
+    gap: 2rem;
+    justify-content: center;
+}
+
+
+
+
